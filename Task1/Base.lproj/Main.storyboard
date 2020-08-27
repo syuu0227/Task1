@@ -99,11 +99,11 @@
                     </view>
                     <connections>
                         <outlet property="sumLabel" destination="Pdi-wd-90l" id="h9Z-gr-IZc"/>
-                        <outletCollection property="nums" destination="Lk4-gE-Tbr" collectionClass="NSMutableArray" id="X9R-3T-i6B"/>
-                        <outletCollection property="nums" destination="dbA-U5-ntq" collectionClass="NSMutableArray" id="wer-Hb-LEO"/>
-                        <outletCollection property="nums" destination="n27-6U-7LB" collectionClass="NSMutableArray" id="JpH-If-X5Z"/>
-                        <outletCollection property="nums" destination="Nmu-JN-LhO" collectionClass="NSMutableArray" id="Cds-gT-fAg"/>
-                        <outletCollection property="nums" destination="tym-aH-mpF" collectionClass="NSMutableArray" id="KlL-ll-Dc4"/>
+                        <outletCollection property="numberTextFields" destination="Lk4-gE-Tbr" collectionClass="NSMutableArray" id="951-m6-IdN"/>
+                        <outletCollection property="numberTextFields" destination="dbA-U5-ntq" collectionClass="NSMutableArray" id="v4k-fh-nw4"/>
+                        <outletCollection property="numberTextFields" destination="n27-6U-7LB" collectionClass="NSMutableArray" id="IUk-sT-gnS"/>
+                        <outletCollection property="numberTextFields" destination="Nmu-JN-LhO" collectionClass="NSMutableArray" id="mUR-hu-HCK"/>
+                        <outletCollection property="numberTextFields" destination="tym-aH-mpF" collectionClass="NSMutableArray" id="mqH-Q7-goK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
